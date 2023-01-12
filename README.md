@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadshaderma02&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadshaderma02" /> </p>
 
-- 🌱 I’m currently learning **DevOps,Repository Pattern**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **mohammadshaderma81@gmail.com**
 
